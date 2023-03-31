@@ -1,0 +1,132 @@
+INTRO
+CAPITULO 0  -  Descrição, prescrição e teoria
+	
+	0.0 a concepção popular de gramática no ensino e na sociedade 
+		- conhecimento gramatical na sociedade
+			- natureza
+			- fontes
+			- função e importância
+		- função da escola com respeito ao conhecimento gramatical
+		- o aprendizado de língua estrangeira
+			- o objetivo do aprendiz
+			- a função da gramática para se chegar a esse objetivo
+	
+	0.1 alguns problemas para a concepção popular
+		- (variação no espaço)
+		- (variação no tempo)
+		- (evolução das línguas)
+		- efetividade das formas erradas para a comunicação
+		- a criança em idade pré-escolar(o que ela fala não é gramatical?)
+		- questões de inteligibilidade em fronteiras
+		- a mesma língua em países diferentes
+	
+	0.2 formulação da visão prescritiva
+
+	0.3 formulação da visão descritiva e como ela evita os problemas da seção 0.1
+
+	0.4 a linguística e a noção descritiva
+		- linguistica histórica
+		- estruturalismo
+		- cognitivismo
+	
+	0.5 estudar gramática não é o que você está pensando
+		- comparando a concepção popular e a perspectiva descritivista
+		- elementos de estudo de gramática na perspectiva descritivista
+			- explícitação de pressupostos
+			- observação e elaboração de hipóteses
+			- metalinguagem
+			- elaboração e reavaliação de teorias e pressupostos
+	
+	0.6 existe um lugar para o prescritivismo linguístico?
+
+CAPITULO 1  - Constituintes, testes de constituintes, categorias e funções
+	
+	0.0
+	No capítulo anterior, defendemos que as línguas devem ser estudadas sob a perspectiva
+	descritivista. Isso seria verdade inclusive para o caso daqueles que têm interesse pelo
+	estudo da gramática normativa. Pois o interesse em normatizar as línguas é um aspecto 
+	relacionado a seu uso, por conseguinte, é do interessa da pesquisa descritivista 
+	documentar os esforços de normativização (sobre qual fatos linguísticos recaem, que tipo
+	de estruturas privilegiam, quais rejeitam etc).
+	Neste capítulo, vamos começar com a prática de como o estudo descritivista é feito. Vamos 
+	lançar como hipótese 
+
+	0.1 a oração dentro do fenômeno linguístico
+
+	0.2 Analisar é separar as partes...
+		- a célula, o átomo, ecossistemas...
+			- categorias
+			- funções
+		- de que é feita uma oração?
+
+CAPITULO 2  - O que é ciência?
+	Nos capítulos anteriores, nós... 
+	Neste capítulo, como o título sugere, vamos fazer um pausa filosófica e nos debruçar 
+	um pouco sobre aspectos gerais da questão o que é ciência. Pois, se estamos propondo
+	nestas páginas o estudo científico das línguas, é importante termos uma resposta bem
+	clara para esse tipo de pergunta (o que é ciência? como se faz ciência, o que no tipo
+	de investigação proposta autoriza a designá-la científica ou não? etc)
+
+	Poderíamos responder a pergunta o que é ciência dizendo que é aquilo que 
+	os cientistas fazem. Dito assim parece uma resposta evasiva. Do tipo que alunos dão
+	quando querem enrolar. Mas não precisa ser interpretada assim. Pode ser uma estratégia
+	para tentar compreender o que é ciência: podemos catalogar quem são considerados cientistas em
+	nossa sociedade e quais as práticas relevantes se engajam para exercer esse ofício. A partir
+	disso poderíamos identificar traços semelhantes fundamentais entre essas práticas e no final
+	teríamos uma tentativa válida de definição de ciência. Poderíamos até fazer isso 
+	"diacronicamente" e teríamos um retrato da evolução da ciência.
+
+	Essa estratégia histórica e taxonômica (digamos), teria o mérito de nos mostrar a diversidade
+	da atividade científica .... e nos levaria à pergunta o que é que essa enorme diversidade de 
+	práticas que rotulamos científicas têm que as leva a chegar a conhecimentos válidos...
+
+	
+	0.0 a perspectiva descritivista e a noção de ciência
+		- retomando o paralelo com o átomo, a célula etc
+		- há um paralelo entre a noção de linguistica descritiva que defendemos aqui e 
+		teorias científicas bem estabelecidas. Por exemplo, assim como biologia descreve a  
+		célula e a (fisíco)-química o átomo, nesta disciplina estamos interessados na etrutura
+		da oração. 
+
+	
+	0.1 o que é e como se faz ciência
+		-  
+	ciência, ciência aplicada, tecnologia
+	exatas, biológicas, humanas...
+
+CAPITULO 3  - Aquisição e aprendizado, externalismo e internalismo
+CAPITULO 4  - Visão geral e representação de estrutura gramatical (categoria e projeção; projeções básicas, núcleos vs dependentes; tipos de dependentes: complemento, determinador, adjunto)
+CAPITULO 5  - Visão geral e representação da estrutura morfológica (formação de palavras vs. flexão, morfema, alomorfia, processos)
+CAPITULO 6  - Visão geral da estrutura da oração (tipo oracional, orações canônicas, tipos de dependentes)
+CAPITULO 7  - Visão geral: subordinação, coordenação e suplementação
+CAPITULO 8  - Visão geral: Complementos vs. adjuntos na oração e seus constituintes 
+CAPITULO 9  - Verbos e Sintagmas verbais (formação de verbos; flexão de verbos; tipos de predicados)
+CAPITULO 10 - Nomes e Sintagmas nominais (formação de nomes; flexão; contáveis vs não contáveis, estrutura dos NPs) 
+CAPITULO 11 - Preposições e Sintagmas preposicionados
+
+MORFO 1
+CAPITULO 0 - Negação 
+CAPITULO 1  - Grau, Adjetivos e Sintagmas adjetivais
+CAPITULO 2  - Grau, Advérbios e Sintagmas adverbais
+CAPITULO 3  - Formação de orações imperativas, interrogativas e exclamativas
+CAPITULO 4  - Subordinação de declarativas, interrogativas e exclamativas
+CAPITULO 5  - Subordinação não-finita
+CAPITULO 6  - Relativização
+CAPITULO 7  - Verbos preposicionados e isolamento da preposição
+CAPITULO 8  - Verbos preposicionados idiomáticos e não idiomáticos
+CAPITULO 9  - Preposições e formação de palavras
+CAPITULO 10 - Fused heads: fused relatives, fused NPs
+CAPITULO 11 - Quantificação (NPs, parte esquerda dos NPs, advérbios)
+
+
+MORFO 2
+CAPITULO 0 Grau e comparação 2
+CAPITULO 1 Oraçoes como suplementos e modificadores
+CAPÌTULO 2 Alçamento vs Controle
+CAPITULO 3 Teoria de ligação
+CAPITULO 4 Voz passiva
+CAPITULO 5 Coordenação
+CAPITULO 6 Tópico e Foco
+CAPITULO 7 information packaging
+CAPITULO 8 dêxis e anaphora
+CAPITULO 9 but, however and other non well behaved creatures
