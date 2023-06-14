@@ -1,0 +1,40 @@
+INTRO MORPHO CAPITULO 6
+
+Monotranstives: overlook; devour; climb; see; own
+
+	State-goals: shoot it dead
+	Obligatory-predicative: keep Kim warm; make me furious
+	Optional-predicative: eat the steak raw; paint the fence blue
+	Obligatory-resultative: make himself unpopular
+
+Ditransitive: send; order; offer; give; ask
+
+Complex Intransitive: feel; be; become; seem
+	
+	State-goals: fall asleep;  
+
+Complex Transitive: consider; make; buy; call
+	
+	State-goals: 
+
+Intransitive: hesitate; rain; 
+
+	Obligatory-predicative: look fantastic; get angry;  the parcel came open
+	Optional-predicative: die young; froze solid; the parcel came open
+
+Location-Goal-Source (Locative):
+
+	Goal-Source: travel, go, run; 
+	(NP)-Goal-Source: walk, fly, drive... fall, slip,
+		
+		State-goals: drive us mad
+
+		State-goals-into: turn into a frog; developed into a fine young main
+
+		Possession: pass from mother to daughter; sell to NP; buy from NP
+
+
+	(NP)-Locative: leave, keep,
+	Locative: go, stay, walk; run; go; 
+
+
