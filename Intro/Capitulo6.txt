@@ -1,33 +1,60 @@
 INTRO MORPHO CAPITULO 6
 
-Monotranstives: overlook; devour; climb; see; own
+Transitive:
+	Monotranstives: overlook; devour; climb; see; own
 
-	State-goals: shoot it dead
-	Obligatory-predicative: keep Kim warm; make me furious
-	Optional-predicative: eat the steak raw; paint the fence blue
-	Obligatory-resultative: make himself unpopular
+		State-goals: shoot it dead; 
 
-Ditransitive: send; order; offer; give; ask
+		Obligatory-predicative: keep Kim warm; make me furious
+						
+		
+		Optional-predicative: eat the steak raw; paint the fence blue
+			object as predicand: they served the coffee black
+			subject as predicand: they served the coffee blindfolded
+	
+	Ditransitive: send; order; offer; give; ask
 
-Complex Intransitive: feel; be; become; seem
+
+	Complex Transitive: consider; make; buy; call
+		State-goals: 
+		Depctive-predicatives: believed it prudent; proved it a fake; keep it secret
+			v. lista pg 265 exemplos (40)
+		
+		Obligatory resultative: appointed Mary ambassator to Canada; drive me mad
+			v. lista pg 265 exemplos (42)
+		
+		Optional resultatives: knock him senseless; paint the fence blue; wipe it clean; pushed the door open
+				boil the egg hard; shoot it dead; wash it clean; lista pg 266 (44)
+
+Intransitive:
+	Complex Intransitive: feel; be; become; seem
+		Depctive-predicative: felt lonely; remain ill; seem/prove/appear/stay/keep/smell/sound
+		Resultative: become angry/get ready/come loose;open;right;true/fall asleep ill/go mad/grow tired/turn nasty
+		
+		fixed phrases: v pg 264 exemplos (38)
+
+		
 	
 	State-goals: fall asleep;  
 
-Complex Transitive: consider; make; buy; call
-	
-	State-goals: 
 
-Intransitive: hesitate; rain; 
+  
+	Intransitive: hesitate; rain; 
+		Obligatory-predicative: look fantastic; get angry;  the parcel came open
+		Optional-predicative: die young; froze solid; the parcel came open
 
-	Obligatory-predicative: look fantastic; get angry;  the parcel came open
-	Optional-predicative: die young; froze solid; the parcel came open
+
+
+Copula
+	specifying
+
+	ascriptive
 
 Location-Goal-Source (Locative):
-
 	Goal-Source: travel, go, run; 
 	(NP)-Goal-Source: walk, fly, drive... fall, slip,
 		
-		State-goals: drive us mad
+		[State-goals: drive us mad] v. Complex transitive obligatory resultative
 
 		State-goals-into: turn into a frog; developed into a fine young main
 
@@ -36,5 +63,48 @@ Location-Goal-Source (Locative):
 
 	(NP)-Locative: leave, keep,
 	Locative: go, stay, walk; run; go; 
+
+
+Prepositional verbs: 
+	- apresentar caso geral
+	- gramaticalização da seleção da preposição
+
+
+Light verbs
+	- give
+		give NP
+		give NP NP -- give him a kiss (*give a kiss to him)
+
+	- make 
+		make NP NP (make them an offer/a cake)
+		make a promise to donate 
+		make a fuss about NP
+		v. list pg 294 (15)
+
+	- have and take
+		have/take a bath/break/drink...
+		have a chat/cry/kiss/dream/fight/meeting
+		take a decision/dive/leap/photograph
+
+	- do the cleaning/report/sketch/some work/some writing...
+
+	- other verbs: offer an apology; pay attention; put blame; raise an objection
+
+
+
+Contrastes de transitividade
+	transitive X instransitive
+
+		type 1: they shot him X they shot at him
+	
+		type 2: the sun radiates heat X heat radiates from the sun
+
+		type 3: he drank some water X he drank
+
+		type 4: he broke the vase X the vase broke
+
+	ditransitive X monotransitive
+		...
+
 
 
