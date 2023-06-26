@@ -1,0 +1,85 @@
+INTRO MORPHO CAPITULO 8
+
+COMPLEMENTOS
+
+Transitive:
+	Monotranstives: overlook; devour; climb; see; own
+
+		State-goals: shoot it dead; 
+
+		Obligatory-predicative: keep Kim warm; make me furious
+						
+		
+		Optional-predicative: eat the steak raw; paint the fence blue
+			object as predicand: they served the coffee black
+			subject as predicand: they served the coffee blindfolded
+	
+	Ditransitive: send NP NP; order NP NP; offer NP NP; give NP NP; ask NP NP
+			NB: alternância com v NP PP abaixo em Contrastes de transitividade
+
+
+	Complex Transitive: consider; make; buy; call
+
+		State-goals:
+
+		Depctive-predicatives: believed it prudent; proved it a fake; keep it secret
+			v. lista pg 265 exemplos (40)
+		
+		Obligatory resultative: appointed Mary ambassator to Canada; drive me mad
+			v. lista pg 265 exemplos (42)
+		
+		Optional resultatives: knock him senseless; paint the fence blue; wipe it clean; pushed the door open
+				boil the egg hard; shoot it dead; wash it clean; lista pg 266 (44)
+
+Intransitive:
+	Complex Intransitive: feel; be; become; seem
+		Depctive-predicative: felt lonely; remain ill; seem/prove/appear/stay/keep/smell/sound
+		Resultative: become angry/get ready/come loose;open;right;true/fall asleep ill/go mad/grow tired/turn nasty
+		
+		fixed phrases: v pg 264 exemplos (38)
+
+		
+	
+	State-goals: fall asleep;  
+
+
+  
+	Intransitive: hesitate; rain; 
+		Obligatory-predicative: look fantastic; get angry;  the parcel came open
+		Optional-predicative: die young; froze solid; the parcel came open
+
+
+
+Copula
+	specifying
+
+	ascriptive
+
+Location-Goal-Source (Locative):
+	Goal-Source: travel, go, run; 
+	(NP)-Goal-Source: walk, fly, drive... fall, slip,
+		
+		[State-goals: drive us mad] v. Complex transitive obligatory resultative
+
+		State-goals-into: turn into a frog; developed into a fine young main
+
+		Possession: pass from mother to daughter; sell to NP; buy from NP
+
+
+	(NP)-Locative: leave, keep, 
+	Locative: go, stay, walk; run; go; 
+
+
+
+
+ADJUNTOS
+
+	- Como distinguir complemento verbal de adjunto verbal?
+
+	- Forma 
+
+	- Posição linear (X posição hierárquica)
+
+	- Quantos tipos de adjuntos verbais existem? (modo; lugar; tempo...)
+
+	
