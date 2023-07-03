@@ -1,0 +1,26 @@
+CAPITULO 1  - Constituintes, testes de constituintes, categorias e funções
+0.0
+	No capítulo anterior, defendemos que as línguas devem ser estudadas sob a perspectiva
+	descritivista. Isso seria verdade inclusive para o caso daqueles que têm interesse pelo
+	estudo da gramática normativa. Pois o interesse em normatizar as línguas é um aspecto 
+	relacionado a seu uso, por conseguinte, é do interessa da pesquisa descritivista 
+	documentar os esforços de normativização (sobre qual fatos linguísticos recaem, que tipo
+	de estruturas privilegiam, quais rejeitam etc).
+	Neste capítulo, vamos começar com a prática de como o estudo descritivista é feito. Vamos 
+	lançar como hipótese 
+
+	0.1 a oração dentro do fenômeno linguístico
+
+	0.2 Analisar é separar as partes...
+		- a célula, o átomo, ecossistemas...
+			- categorias
+			- funções
+
+1. de que é feita uma oração? como formular regras descritivas?
+	- oração não é feita (só) de palavras...
+	- teste substituição de nomes próprios por NP complexos etc...
+	- a intuição sobre gramaticalidade de sentenças é sensível à estrutura da sentença
+	e não simplesmente à ordem de palavras ... exemplos
+
+	- categorias e projeção
+	- categoria X função (núcleo e dependente)

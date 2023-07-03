@@ -1,0 +1,29 @@
+ CAPITULO 4  - Visão geral e representação de estrutura gramatical e morfológica
+
+
+- categoria gramatical
+ 	- quais/quantas são? 
+		- é uma lista fechada?
+
+	- como reconhecer?
+		- critério morfológico
+		- os outros critérios (...critério nocional; critério sintático)
+
+
+- revisão de constituintes (...from words to trees)
+	representação da estrutra com árvores...
+		projeção; projeções básicas
+	exemplos de sintagmas nas várias categorias obtidos a partir de testes de constituintes 
+
+  
+
+- tipos de dependentes: complemento, determinador, adjunto
+	
+	- como reconhecer o núcleo
+	- tipologia de sintagmas mostrando exemplos de complementos e de adjuntos
+	e determinadores qd relevante
+
+
+ 
+
+formação de palavras vs. flexão

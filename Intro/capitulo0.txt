@@ -1,0 +1,51 @@
+CAPITULO 0  -  Descrição, prescrição e teoria
+	
+	0.0 a concepção popular de gramática no ensino e na sociedade 
+		- conhecimento gramatical na sociedade
+			- natureza
+			- fontes
+			- função e importância
+		- função da escola com respeito ao conhecimento gramatical
+		- o aprendizado de língua estrangeira
+			- o objetivo do aprendiz
+			- a função da gramática para se chegar a esse objetivo
+	
+	0.1 alguns problemas para a concepção popular
+		- (variação no espaço)
+		- (variação no tempo)
+		- (evolução das línguas)
+		- efetividade das formas erradas para a comunicação
+		- a criança em idade pré-escolar(o que ela fala não é gramatical?)
+		- questões de inteligibilidade em fronteiras
+		- a mesma língua em países diferentes
+	
+	0.2 formulação da visão prescritiva
+		- leis como dever
+		- regras gramaticais como dever... 
+
+	0.3 formulação da visão descritiva e como ela evita os problemas da seção 0.1
+		- leis da natureza
+		- como descobrir? ...a partir da observação para obter generalizações 
+		e formular as proposições mais sucintas que melhor descrevem o fenômeno
+		- ... de onde vêm as observações 1?
+			- corpora ; comportamento
+		- ... de onde vêm as observações 2?
+			- gramaticalidade
+			- observações negativas... tb são observações... exemplos de observações
+			negativas q todo mundo sabe e nunca foi ensinado...
+		
+	0.4 a linguística e a noção descritiva
+		- linguistica histórica
+		- estruturalismo
+		- cognitivismo
+	
+	0.5 estudar gramática não é o que você está pensando
+	
+		- comparando a concepção popular e a perspectiva descritivista
+		- elementos de estudo de gramática na perspectiva descritivista
+			- explícitação de pressupostos
+			- observação e elaboração de hipóteses
+			- metalinguagem
+			- elaboração e reavaliação de teorias e pressupostos
+	
+	0.6 existe um lugar para o prescritivismo linguístico?

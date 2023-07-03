@@ -1,6 +1,35 @@
 CAPÍTULO 6 - Visão geral da estrutura da oração 
 
-tipo oracional
+
+
+
+tipos de dependentes
+
+	intransitive
+	monotransitive
+	complex instransitive
+	complex transtive
+	ditransitive
+
+	
+
+	- Sujeito
+
+		- exemplos: intransitive (sujeito agente X experenciador...); verbos de estado...
+
+	- Complemento
+
+		- Objeto
+			direto
+			indireto
+
+		- Complemento genérico
+
+		- Predicativo
+
+	- Modificador: PP ; Advp modificando VP
+
+tipo oracional: apresentar tipos além das declarativas como "transformações"; só estrutura.
 	
 	- declarative
 
@@ -9,17 +38,6 @@ tipo oracional
 	- imperative
 
 	- exclamative
-
-
-tipos de dependentes
-
-	- Sujeito
-
-	- Complemento
-
-		- Objeto
-
-	- Modificador
 
 
 orações canônicas
