@@ -82,4 +82,6 @@ ADJUNTOS
 
 	- Quantos tipos de adjuntos verbais existem? (modo; lugar; tempo...)
 
+	- NP como modificador no VP
+
 	

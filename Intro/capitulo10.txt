@@ -1,0 +1,44 @@
+Nomes e Sintagmas nominais 
+
+identificação de nomes; 
+
+	- identificação nocional
+	- flexão
+	- sintática
+		- substituição por 
+			- nome próprio
+			- pronome
+				- sujeito
+				- complemento
+			- pode ser sujeito
+
+		
+estrutura dos NPs
+	
+	- head + complement
+	- head + modifier
+	- modifier + head
+	- NOM
+	- determinante (periferia esquerda)
+
+		- contáveis X não contáveis
+			- (the) water is wet
+			- the cat is on the mat X * cat is on the mat
+
+		- definido X não-definido
+
+Complemento X modificador à direito do núcleo
+	- nomes deverbais
+	- nomes que vêm de verbos de speech act
+	- nomes que denotam ideas etc.
+	...
+
+visão geral de fused heads:
+	
+	- compostos: everybody; nothing...
+	- simple: they sent six copies but I ordered eight
+	- partitive: several (of the copies) were damaged
+	- special: this is infuriating
+
+
+

@@ -1,0 +1,42 @@
+Das estruturas que apareceram no capítulo 4 há duas estruturas às quais já demos atenção: NP e VP.
+Faltam ainda PP AdjP e AdvP. Veremos essas estruturas neste capítulo.
+
+Vamos revisar em que posições elas apareceram.
+
+- PP
+- AdjP
+- AdvP
+
+Caracterização (em paralelo)
+	- morfológica
+	- nocional
+
+Estrutura dos sintagmas AdvP AdjP PP (em paralelo)
+	
+Caracterização sintática
+	- adv X prep
+	- adv X adj
+	
+	- prep X adj
+
+	- verbo X prep
+	- verbo X adj
+	
+- AdvP: linear position in the clause
+
+
+- Extensão da classe de preposições
+	prep X adv
+	prep X "conjunção"
+	prep X subordinador
+
+
+Funções das categorias adj ; adv ; prep
+
+	Compl no VP
+	Compl no NP
+	Modif no VP
+	Modif no NP
+	advérbio X Adjunto X Adjunto Adverbial
+
+Grau
