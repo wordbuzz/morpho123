@@ -52,16 +52,16 @@ CAPITULO 10 - Nomes e Sintagmas nominais (formação de nomes; flexão; contáve
 CAPITULO 11 - Preposições; Adjetivos; Advérbios
 
 MORFO 1
-CAPITULO 0 - Negação 
-CAPITULO 2  - Formação de orações imperativas, interrogativas e exclamativas
-CAPITULO 3  - Subordinação de declarativas, interrogativas e exclamativas
-CAPITULO 4  - Subordinação não-finita
-CAPITULO 5  - Relativização
-CAPITULO 6  - Verbos preposicionados e isolamento da preposição
-CAPITULO 7  - Verbos preposicionados idiomáticos e não idiomáticos
-CAPITULO 8  - Preposições e formação de palavras
-CAPITULO 9 - Fused heads: fused relatives, fused NPs
-CAPITULO 10 - Quantificação (NPs, parte esquerda dos NPs, advérbios)
+CAPITULO 0 - Formação de orações imperativas, interrogativas e exclamativas 
+CAPITULO 1  - Negação
+CAPITULO 2  - Subordinação de declarativas, interrogativas e exclamativas
+CAPITULO 3  - Subordinação não-finita
+CAPITULO 4  - Relativização
+CAPITULO 5  - Verbos preposicionados e isolamento da preposição
+CAPITULO 6  - Verbos preposicionados idiomáticos e não idiomáticos
+CAPITULO 7  - Preposições e formação de palavras
+CAPITULO 8 - Fused heads: fused relatives, fused NPs
+CAPITULO 9 - Quantificação (NPs, parte esquerda dos NPs, advérbios)
 
 
 MORFO 2
