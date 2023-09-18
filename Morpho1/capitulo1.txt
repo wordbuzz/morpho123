@@ -10,10 +10,25 @@ TIPOS DE NEGAÇÃO
 
 	- COMUM vs. METALINGUÍSTICA
 
+
 POLARIDADE
 
-	- tabela comparativa PPI vs NPI vs ABSOLUTE NEGATORS
+	- tabela comparativa PPI vs NPI vs ABSOLUTE NEGATORS (p 829/831)
 
-	- affirmative vs. non-affirmative contexts
+	- affirmative vs. non-affirmative contexts (pg 834)
+
+
+SINTAXE DA NEGAÇÃO
+
+	- declarativas
+		
+		verbos "principais"
+		auxiliares
+			- modais
+			- perífrases (be+ing; have+ed...)
+
+	- interrogativas
+
+		Negative interrogative questions (pg883)
 
 

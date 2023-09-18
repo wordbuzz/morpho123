@@ -1,9 +1,17 @@
 FORMAÇÃO DE TIPOS ORACIONAIS
 
-INTERROGATIVA CLOSED
+INTERROGATIVA
 
 
-INTERROGATIVA ABERTA
+	- INTERROGATIVA ABERTA
+	- INTERROGATIVA FECHADA
+
+	- echo questions
+	- alternative
+	- polar
+	- variable
+
+	- wh-words and percolation (pg902...910...)
 
 
 IMPERATIVA
