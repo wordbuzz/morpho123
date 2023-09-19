@@ -3,18 +3,43 @@ FORMAÇÃO DE TIPOS ORACIONAIS
 INTERROGATIVA
 
 
-	- INTERROGATIVA ABERTA
+
 	- INTERROGATIVA FECHADA
+
+		subj-aux inversion
+		
+
+	- INTERROGATIVA ABERTA
+
+		wh fronting
+		subj-aux inversion
+
+		wh-words and percolation (pg902...910...)
+
+
 
 	- echo questions
 	- alternative
 	- polar
 	- variable
 
-	- wh-words and percolation (pg902...910...)
-
+	- 
 
 IMPERATIVA
 
+	ORDINARY IMPERATIVE
+	LET IMPERATIVE
+	SUBJECT IN IMPERATIVES
+		
+		- SUJEITO VS VOCATIVE
+
 
 EXCLAMATIVA
+
+	EXCLATIVE HOW: DEGREE MODIFIER
+		  WHAT: EXTERNAL NP MODIFIER
+
+		  SUBJECT (CP. INTERROGATIVE)
+
+
+CLAUSE TYPE vs SPEECH ACTS
