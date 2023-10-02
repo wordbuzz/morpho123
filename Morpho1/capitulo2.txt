@@ -5,9 +5,19 @@ CAPITULO 2  - Subordinação de declarativas, interrogativas e exclamativas
 
 Visão geral: subordinação, coordenação e suplementação
 
+Subordinação e Coordenação na GT Escolar no Português
+
+Flexão Verbal
+	- primary vs non-primary forms
+	- fin vs finite
+	- subjuntivo : português vs inglês
+
+
+
 Visão geral: subordinação
 
-	- head - dependent ... 
+	- o núcleo da oração e a finitude dos verbos... consequências para a subordinação
+	- head - dependent ...
 		subordinção de sintagmas 
 		subordinação do VP / S
 		paradigma verbal 
@@ -24,6 +34,14 @@ Visão geral: subordinação
 				past participle
 
 
-
  
-		
+Subordinação de declarativas em posições de argumento
+
+	- distribuição
+	- funções
+	- complementizador that 
+		- obrigatório
+		- optativo
+		- proibido	
+
+	- mandativo; irrealis	

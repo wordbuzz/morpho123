@@ -54,7 +54,8 @@ CAPITULO 11 - Preposições; Adjetivos; Advérbios
 MORFO 1
 CAPITULO 0 - Formação de orações imperativas, interrogativas e exclamativas 
 CAPITULO 1  - Negação
-CAPITULO 2  - Subordinação de declarativas, interrogativas e exclamativas
+CAPITULO 2  - Subordinação: Visão Geral e Subordinação de declarativas,
+CAPITULO 3  -  Subordinação de interrogativas e exclamativas
 CAPITULO 3  - Subordinação não-finita
 CAPITULO 4  - Relativização
 CAPITULO 5  - Verbos preposicionados e isolamento da preposição
