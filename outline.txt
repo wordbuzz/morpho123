@@ -69,7 +69,7 @@ CAPITULO 10 - Quantificação (NPs, parte esquerda dos NPs, advérbios)
 MORFO 2
 CAPITULO 0 Grau e comparação 2
 CAPITULO 1 Oraçoes como suplementos e modificadores
-CAPÌTULO 2 Alçamento vs Controle
+CAPITULO 2 Alçamento vs Controle
 CAPITULO 3 Teoria de ligação
 CAPITULO 4 Voz passiva
 CAPITULO 5 Coordenação
