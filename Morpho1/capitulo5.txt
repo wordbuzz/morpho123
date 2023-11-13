@@ -1,0 +1,40 @@
+Relative Clauses 
+
+
+Orações Relativas
+
+	- distrbuição (... posição no NP)
+	- forma
+
+		- tipo 
+		- a operação de relativização
+
+			- relativização : the basics
+
+				I visited the city. The city was beautiful.
+				[The city which I visited __] was beautiful
+
+			- quais elementos da declarativa são relativizados
+				- sujeito
+				- objeto
+				- predicative complement
+				- complement of preposition
+				- adjuncts and associated complements
+					- time
+					- location
+					- goal
+					- path
+					- manner
+					- reason
+				- genitive
+			
+			- percolation
+				- TYPE I from comp of preposition to PP (behind which Kim was hiding _)
+				- TYPE VI from genitive whose to NP (the student whose essay he plagiarised)
+				- TYPE VII from determinative which to NP
+
+		- relative words
+
+			- wh words and agreement
+			- that
+
