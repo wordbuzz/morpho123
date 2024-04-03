@@ -17,9 +17,26 @@ Verbos Preposicionados
 
 - distinguir entre verbos que licenciam preposições com conteúdo semântico e sem
 	
-	- teste de substituição por item lexical ou sintgama sinônimo
+	- teste de substituição por item lexical ou sintgma sinônimo
 	- composicionalidade do v + PP
+
+
+	testes (CGEL cap 4 : seção 6, 6.1)
+	- fronting da preposição + NP
+		The book to which I referred x *the letters across which I came etc
+		
+	- coordination of PP 
+		I waded through the mud and into the bog X *I waded through my ironing and into the cooking
+
+	- position of adjuncts
+		I flew regularly to Boston X I came accidentally across the letters
+
+	- prepositional passives
+		não incluir... muito irregular
+
+	
+		
 
 	- exemplos... 
 
-- fossilization de verbos preposicionados
+-  o conceito de fossilization e os verbos preposicionados
