@@ -1,6 +1,6 @@
 Verbos preposicionados idiomáticos e não idiomáticos
 
-comparar representação de phrasal verbs de livros pedagógicos  à lá Murphy EGU
+comparar representação de phrasal verbs de livros pedagógicos  à lá Murphy EGU X abordagem do SIEG
 
 - o conceito de verbos preposicionado (repetir do capítulo 6?)
 
@@ -14,3 +14,18 @@ comparar representação de phrasal verbs de livros pedagógicos  à lá Murphy 
 	problemas: 
 		a sequência verbo + preposição não é sintagma
 		evidência: testes de constituintes (it-cleft ...)
+
+
+estudos de caso
+fazer exemplos com pequena lista de preposição  
+
+bank
+believe
+convince
+fall
+feel
+hope
+see
+treat
+wait
+stand

@@ -53,21 +53,20 @@ CAPITULO 11 - Preposições; Adjetivos; Advérbios
 
 
 MORFO 1
-CAPITULO 0 - Formação de orações imperativas, interrogativas e exclamativas 
-CAPITULO 1  - Negação
-CAPITULO 2  - Subordinação: Visão Geral e Subordinação de declarativas
-CAPITULO 3  - Subordinação de interrogativas e exclamativas
-CAPITULO 4  - Subordinação não-finita
-CAPITULO 5  - Relativização
-CAPITULO 6  - Verbos preposicionados e isolamento da preposição
-CAPITULO 7  - Verbos preposicionados idiomáticos e não idiomáticos
-CAPITULO 8  - Preposições e lexicalização
-CAPITULO 9 - Fused heads: fused relatives, fused NPs
-CAPITULO 10 - Quantificação (NPs, parte esquerda dos NPs, advérbios)
-
+CAPITULO 0 - Grau e comparação 1 - adjetivo, adverbio, modificação Prep
+CAPITULO 1 - Formação de orações imperativas, interrogativas e exclamativas 
+CAPITULO 2  - Negação
+CAPITULO 3  - Subordinação: Visão Geral e Subordinação de declarativas
+CAPITULO 4  - Subordinação de interrogativas e exclamativas
+CAPITULO 5  - Subordinação não-finita
+CAPITULO 6  - Relativização
+CAPITULO 7  - Verbos preposicionados e isolamento da preposição
+CAPITULO 8  - Verbos preposicionados idiomáticos e não idiomáticos
+CAPITULO 9  - Preposições e lexicalização
+CAPITULO 10 -  Fused relatives
 
 MORFO 2
-CAPITULO 0 Grau e comparação 2
+CAPITULO 0 Quantificação (NPs, parte esquerda dos NPs, advérbios) fused NPs?
 CAPITULO 1 Oraçoes como suplementos e modificadores
 CAPITULO 2 Alçamento vs Controle
 CAPITULO 3 Teoria de ligação
