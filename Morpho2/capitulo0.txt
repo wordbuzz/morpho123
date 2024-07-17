@@ -1,0 +1,25 @@
+CAPITULO 0 - Quantificação (NPs, parte esquerda dos NPs, advérbios) fused NPs
+
+Fused heads:
+	
+	- compostos: everybody; nothing...
+	- simple: they sent six copies but I ordered eight
+	- partitive: several (of the copies) were damaged
+	- special: this is infuriating
+
+
+genitives: (SIEG 2002 pg110)
+
+	sujeito
+	fused head
+	oblique
+	predicative
+	attributive
+
+
+modificadores externos 
+	
+	both
+	even
+	by far
+	...
