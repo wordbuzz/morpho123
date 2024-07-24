@@ -1,7 +1,6 @@
 Verbos preposicionados e isolamento da preposição
 
 
-
 Fronting vs Stranding
 	
 	- preposing
@@ -17,7 +16,7 @@ Verbos Preposicionados
 
 - distinguir entre verbos que licenciam preposições com conteúdo semântico e sem
 	
-	- teste de substituição por item lexical ou sintgma sinônimo
+	- teste de substituição por item lexical ou sintagma sinônimo
 	- composicionalidade do v + PP
 
 
@@ -33,9 +32,6 @@ Verbos Preposicionados
 
 	- prepositional passives
 		não incluir... muito irregular
-
-	
-		
 
 	- exemplos... 
 

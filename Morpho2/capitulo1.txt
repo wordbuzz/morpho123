@@ -1,3 +1,28 @@
 CAPITULO 1 Oraçoes como suplementos e modificadores
 
-...relativas "explicativas"/não restritivas
+suplemento X coordenação X subordinação
+
+	suplemento:  +headed -integrated
+	coordenação: -headed +integrated
+	subordinação: +headed +integrated
+	
+	- anchor X head
+	- supplement X dependent : compatibility X licensing
+	- 
+	- árvores com suplementos
+	
+suplementação: categorias que podem ser suplementos
+	- ...relativas "explicativas"/não restritivas
+	- NP, PP, AdvP, AdjP...
+	- orações
+
+funções: 
+	- non-restrictiveness
+	- indicators (CGEL 1354) (..., that is,... etc)	
+
+posições: (CGEL pg 1355)
+	- appendage 
+	- interpolation
+
+suplementção e sujeito da oração 
+	- dangling modifiers

@@ -17,7 +17,7 @@ genitives: (SIEG 2002 pg110)
 	attributive
 
 
-modificadores externos 
+modificadores externos do NP
 	
 	both
 	even
