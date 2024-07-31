@@ -1,14 +1,52 @@
 Dêxis e anaphora
 
-Pronomes: SIEG cap 5 
-	
-	- dêixis
-	
-	- anaphora
 
+
+Introdução
+	- Dêixis e anáfora em pronomes: SIEG cap 5 
+	
+		- dêixis
+	
+		- anaphora
+
+	- locative, person, temporal dêixis X point reference
+	- dectic expression; deictic markers; indexing acts (CGEL capítulo 17)
+
+	- anaphora	
 
 Anafóra em orações relativas
 
 	Pro-form X pronouns
 	
 	anáfora em relativas não restritivas ... anfóricas a "não constituintes" ... pressuposições etc...
+
+
+
+- the bound variable interpretation (CGEL 1458 (b))
+- anaphors that are not NPs (CGEL p. 1459)
+	- noun
+	- VP
+	- VP gap (ellipsis)
+- split and missing antecedents (CGEL 1460)
+
+
+
+
+- pro-forms
+	
+	- kinds of pro-forms
+
+	- not all pro-forms are pronouns(CGEL 1462)
+	- not all pronouns are pro-form 
+
+	Some interesting uses of pronouns and or pro-forms
+		
+		- we for single speaker (give us a lick of your ice-cream) 
+		- we for addressee or 3rd party
+		- non-referential you
+		- one for non-ref 3rd person
+		- institutional and non-ref they
+
+- interesting semantic relations between pronoun and its antecedent
+	- anaphor within the quantificational or interrogative scope of its antecedent (CGEL 1473 (d) ver tb outros itens e, f, g...
+	isso precisa de um pouco de reflexão para ser encaixado no capítulo)

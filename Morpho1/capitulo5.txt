@@ -3,7 +3,7 @@ Relative Clauses
 
 Orações Relativas
 
-	- distrbuição (... posição no NP)
+	- distribuição (... posição no NP)
 	- forma
 
 		- tipo 
@@ -13,7 +13,14 @@ Orações Relativas
 
 				I visited the city. The city was beautiful.
 				[The city which I visited __] was beautiful
+				
+				- o conceito de anáfora e de antecedente
+				- a relação anafórica no NP com relativa
 
+				- relative wh words
+				- wh words and agreement
+				- that X wh-words
+		
 			- quais elementos da declarativa são relativizados
 				- sujeito
 				- objeto
@@ -33,8 +40,5 @@ Orações Relativas
 				- TYPE VI from genitive whose to NP (the student whose essay he plagiarised)
 				- TYPE VII from determinative which to NP
 
-		- relative words
 
-			- wh words and agreement
-			- that
 
