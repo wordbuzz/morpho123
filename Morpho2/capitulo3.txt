@@ -1,0 +1,54 @@
+Capitulo 3 Teoria da ligação
+
+NP charcteristics - well-behaved has a lexical N head, may be Sj/obj,  
+
+not well-behaved NP forms:
+	Reduced NP - 
+		personal, 
+		reflexives, 
+		demonstratives, 
+		reciprocals, 
+		fused-heads, 
+		pro-nominals,
+		ellipsis
+
+Pronouns
+	The contrast between referential and non-referential NPs (CEG 400)
+	The pronouns can be used non-anaphorically – without an antecedent
+	
+
+Reflexives
+	Status of the reflexive (CEG 1484)
+		mandatory, 
+		optional, 
+		inadmissible 
+
+	The domain of a reflexive pronoun (CEG 1485)
+		Verb domain reflexives
+		Noun domain reflexives
+		Basic reflexives in verb domains
+
+Demonatratives
+	 Anaphoric uses (CEG 1507)
+
+Reciprocals
+	Antecedent of reciprocal pronouns must denote a set of two or more (CEG 1501)
+
+Pro-nominal one and the fused-head construction (CEG 1511)
+	Fused-head construction
+
+	Pro-nominals
+	 	Pro-nominal one vs determinative one (CEG 1513)
+		Restrictions on the distribution of one (CEG 1515)
+
+	Uses of the fused-head and pro-nominal one constructions
+		Anaphoric interpretations
+		Non-anaphoric interpretation: contextually salient denotation
+
+	 Pro-nominal other
+
+Ellipsis
+
+Pro-forms and pronouns
+
+Optional reflexives
