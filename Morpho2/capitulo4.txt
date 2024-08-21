@@ -5,3 +5,42 @@ Revisão de non-finite clauses
 		gerund-participals
 		participals
 
+
+CEG 1193 Understood subjects
+i Pat persuaded Kim [to travel by bus]. [controlled interpretation]
+ii Pat intended Kim [to travel by bus]. [raised interpretation]
+iii It was necessary [to travel by bus]. [non-syntactic interpretation]
+
+Simple Catenative
+To-infinitivals
+CEG 1194 (I hoped to convince them vs I seemed to convince them)
+	hope - want, forget, hate, try, manage, regret, remember, learn, seek, offer
+	seem - appear, happen, look, tend
+ 	Evidence for the distinction between an ordinary subject and a raised subject
+CEG 1197 Differences between hope-type verbs and seem-type verbs
+
+Gerunds- Participals
+CEG 1199  Choice between simple and complex constructions
+	avoid, finish, quit, go
+	end up
+
+To-infinitival or gerund-participal  (I propose to tell /telling her)
+	attempt, propose
+	begin, continue, start
+
+Complex Catenative
+To-infinitivals
+CEG 1201  The plain-complex construction (I persuaded Liz to go vs I intended Liz to go)
+CEG 1202 Choice between complex and simple constructions
+CEG 1203  Summary of differences between persuade and intend
+CEG 1203  The for-complex construction (I arranged for her to go by bus)
+	 (She asked to see him; She asked me to see him) ask, promise, request
+	 (I expect to finish soon; I expect you to finish soon) expect, wish
+	 (He longed to return home; He longed for her to return home) agree, appluy, wait
+
+Gerunds- Participals
+CEG 1204  Catch vs resent (I caught him doing it vs I resented him doing it)
+
+SIEG 218 Using dummy pronouns 
+
+

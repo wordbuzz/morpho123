@@ -1,8 +1,23 @@
+Capítulo 6
 
-
-...
-
+The structure of coordinate constructions
+	Coordinations, coordinates, and coordinators
+	Coordination as a non-headed construction
+	Contrasting structures
+	Place of coordinators in the constituent structure
+	Bare and expanded coordinates
+Layered coordination (Kim and either Pat or Alex)
+Syntactic constituency and semantic scope
+	Clausal and subclausal coordination
+	Joint coordination (Kim and Pat are a happy couple
+	Ambiguity between distributive and joint coordination
+Constituent structure and scope ambiguities
+Order of coordinates
+	Reversible and irreversible coordination
+	Lexicalised coordinations
+Properties of prototypical coordinators
+	Unlimited number of coordinates
+	Coordinates must be syntactically alike
+	Wide range of categories that can be coordinated
 
 Coordination that is pragmatically comparable to subordination (CGEL 1479 ex 49)
-
-incluir?
