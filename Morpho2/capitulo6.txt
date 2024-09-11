@@ -1,16 +1,38 @@
 Capítulo 6
 
 The structure of coordinate constructions
-	Coordinations, coordinates, and coordinators
-	Coordination as a non-headed construction
-	Contrasting structures
-	Place of coordinators in the constituent structure
-	Bare and expanded coordinates
-Layered coordination (Kim and either Pat or Alex)
-Syntactic constituency and semantic scope
+	
+	- tree: Coordinations, coordinates, and coordinators (bare coordinate vs expanded coordinate)
+	
+		- Coordination as a non-headed construction
+	
+		- syndectic vs asyndectic
+
+	
+	- Layered coordination (Kim and either Pat or Alex)
+
+Some interesting effects of coordination in Meaning
+
+
 	Clausal and subclausal coordination
+	[14] i  a. There is a copy [on the desk and in the top drawer].
+		b.They arrived [on [Tuesday or Wednesday]. [subclausal]
+		c. He told me [who she was but not what she wanted ].
+	     ii a. There is a copy on the desk and there is a copy in the top drawer.
+		b.They arrived on Tuesday or they arrived on Wednesday. [clausal]
+		c. He told me who she was but he didn’t tell me what she wanted
+	
+	[15] i One candidate was [very young and very energetic]. [subclausal]
+	     ii One candidate was very young and one candidate was very energetic. [clausal
+	
 	Joint coordination (Kim and Pat are a happy couple
-	Ambiguity between distributive and joint coordination
+	[17] i Kim and Pat know Greek. [distributive]
+	     ii Kim and Pat are a happy couple. [joint]	
+
+	
+	
+Ambiguity between distributive and joint coordination
+
 Constituent structure and scope ambiguities
 Order of coordinates
 	Reversible and irreversible coordination
