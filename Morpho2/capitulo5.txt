@@ -2,7 +2,29 @@ Capítulo 5 Voz passiva
 
 The system of voice
 	Differences between active and passive
+
+		- structural differences pg 1428 (4)
+			
+			- long passive vs. short passive
+			- perfect inflection vs passive (has stolen vs got stolen)
+			- be/get/bare passive
+
 Lexical restrictions
+	- which can/cannot be passivized?
+
+		- cannot:
+			- complex intransitves (be, seem, appear...)
+			- intransitive verbs
+			- modal verbs
+
+			
+		- can: 
+			
+			- transitive verbs
+
+	- which verbs must be passive?
+
+
 
 Short passives
 Prepositional passives
@@ -15,5 +37,8 @@ Verbal passives X adjectival passives
  	 Dynamic vs stative
 Middle voice
 
+
+blue box pg 1429 ...gerund participle as passive...
+--> (8) the draft needs checking carefully by the editor
 
 
