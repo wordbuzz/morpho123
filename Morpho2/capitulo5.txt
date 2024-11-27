@@ -3,6 +3,23 @@ Capítulo 5 Voz passiva
 The system of voice
 	Differences between active and passive
 
+
+		Find the semantic roles of the subjects and complements of the verb(if any): 
+		doer of the action; experiencer
+
+		
+
+		a. The vase broke.
+		b. The cat broke the vase.
+		c. Bob hated ABBA. (experiencer)
+		d. Mary knew that Peter had arrived.
+		e. The bear rolled down the hill.
+		f. The cassarole cooked in the oven.
+		g. The movie ended at 10 pm
+		h. Bob smiled.
+
+	
+
 		- structural differences pg 1428 (4)
 			
 			- long passive vs. short passive
@@ -18,7 +35,7 @@ Lexical restrictions
 			- modal verbs
 
 			
-		- can: 
+		- can:
 			
 			- transitive verbs
 

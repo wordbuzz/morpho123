@@ -1,0 +1,79 @@
+
+(1) change of alignment: internal complement raised to subject. PP [by NP] is optional.
+It is a complement of the verb. Verb is intransitive.
+a. 
+i. Bob devoured the cookie.
+ii. The cookie was devoured by Bob. The cookie was devoured.		
+
+b. 
+i. The cat broke the vase.
+ii. The vase was broken. ...
+		
+c. 
+i. Bob hated ABBA. (experiencer)
+ii.		
+
+d. 
+i. Mary knew that Peter had arrived.
+ii.
+		
+e. not only the direct object raises to subject.
+i.Werther sent a letter to Charlotte.
+ii.
+iii.
+
+
+(2) not all verbs that can take direct objects can form passives
+a.
+i. A strange adventure befell him
+ii. *
+
+b.
+i. He failed her
+ii.
+
+c.
+i. This bottle contains the milk you need for your breakfast.
+ii. **
+
+(3) passive voice: past participle != perfect: past pariciple 
+a. 
+i. She withdrew her application because many disliked her.
+ii. She withdrew her application because she was disliked by many.
+ii disliked by many, she withdrew her application.
+
+b. 
+i. He looked older since hard...
+ii.  
+
+
+
+(4) passive of periphrastic verbs
+a. 
+i. Mary was examining the contract.
+ii. The contract was being examined.
+
+b. 
+i. Bob has devoured the cookie.
+ii. The cookied has been devoured.
+
+c. 
+i. Bob will have devoured the cookie.
+ii.
+
+d.
+i. Bob may have devoured the cookie.
+ii. 
+
+
+(5) be vs got
+i. The police arrested Mary.
+ii. Mary was arrested.
+iii. Mary got arrested.
+
+
+(6) bare passive
+i. Bob saw Mary [arrested by the police for stealing a cell phone].
+ii. The [person [arrested by the police]] was denied bail.
+iii. Mary arrested for stealing a cell phone was unexpected.
+
