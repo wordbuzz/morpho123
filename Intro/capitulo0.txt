@@ -1,23 +1,61 @@
 CAPITULO 0  -  Descrição, prescrição e teoria
 	
 	0.0 a concepção popular de gramática no ensino e na sociedade 
+		
 		- conhecimento gramatical na sociedade
 			- natureza
 			- fontes
 			- função e importância
+		
 		- função da escola com respeito ao conhecimento gramatical
+			difusão; reforço das regras; reforço da idéia de que há uma maneira que a língua deve ser;
+			descoberta de regras; "descoberta" de fatos históricos que norteariam o uso de certas palavras e expressões; 
+		
 		- o aprendizado de língua estrangeira
 			- o objetivo do aprendiz
 			- a função da gramática para se chegar a esse objetivo
 	
 	0.1 alguns problemas para a concepção popular
-		- (variação no espaço)
-		- (variação no tempo)
-		- (evolução das línguas)
-		- efetividade das formas erradas para a comunicação
+		- Variação e evolução
+			- (variação das línguas no espaço)
+				Escolha a forma que vc usa no seu dia a dia 
+				(TESTE 1)... biscoito X bolacha;  tu X Você;  A Maria chegou X Maria chegou; 
+				O livro da Maria X o livro de Maria; 
+				... agora pense nas formas que vc não escolheu. Vc diria que essas formas são qual língua? 
+				(a) Aramaico; (b) Francês; (c) Inglês; (d) Português; (e) Guarani
+
+				Obviamente vc escolheu a alternativa (d). Mas o q a gramática diria dessas construções. Algumas seriam variantes. regionalismos etc
+
+				Agora escolha entre essas formas que vc ou usa ou escuta no seu dia a dia... eu vi ela X eu a vi ; nós foi X nós fomos ; para mim fazer X para eu fazer;
+				O Joãozinho comeu os biscoito tudo X o Joãozinho comeu os biscoitos todos. X comeu todos os biscoitos etc; Chácara X Chacra; 
+
+				vc deve ter escolhido a primeira opção de pelo menos um par. Novamente,  vc diria que as opções que vc não escolheu são exemplos de que língua?
+
+				Enquanto os pares do TESTE 1 seriam aceitos como variantes, regionalismos etc do português, em cada par do teste o segundo elemento seria considerado 
+				errado pela gramática prescritiva ou rotulado como uma variante de pouco prestígio, que deve ser evitada por pessoas escolarizadas. Mas vamos repetir a 				pergunta feita na sequência do TESTE 1. Vc acha que os segundos elementos desse pares são exemplos de qual língua?  				
+				
+				(a) Aramaico; (b) Francês; (c) Inglês; (d) Português; (e) Guarani
+
+				Se a gramática prescritiva faz afirmações do tipo "Isso não português" ou "Essa forma não existe em português" fica com o problema de responder de que língua se trata. Em nosso caso, não conseguimos pensar em outra alternativa além de dizer que se trata do português brasileiro.
+
+				Se a gramática faz afirmações do tipo "Isso não é correto" ou "Essa forma é português errado", o que está sendo avaliado a estrutura gramatical ou a adequação da forma? No TESTE 2 o primeiros são exemplos de formas da língua portuguesa que vc encontraria em conversas de bar, na fala de pessoas com pouca escolarização, na fala de pessoas do meio rural, com predominância de pessoas de situação socio-econômica não privilegiadas. Por outro lado as segundas opções acontecem principalmente na escrita e em situações formais. Então estamos falando de uma estrutura linguística que seria correta (ou não correta) ou de um uso adequado da forma. Ou de um uso que atende a certas expectativas?
+
+								
+				 
+			- (variação das línguas no tempo)
+				...FAZER SEMELHANTE PARA DIACRONIA...
+			- (evolução das línguas)
+				O acúmulo das mudanças linguísticas no tempo em algum momento nos levará a uma língua que não é mais o vernáculo de 20xy(preencha xy com o ano em que vc está lendo). Isso é uma fato verificável nos registros históricos de todas as línguas. O pt, o espanhol, o francês, o italiano etc já foram latim. As línguas escandinavas já foram Anglo-Saxão. etc (dar outros exemplos). A conclusão é que as línguas evoluem. 
+				A palavra evoluir pode ser um tanto polêmica. Pq pode dar a ideia de aperfeiçoamento. Mas não é esse o sentindo que queremos aqui. Dizer que a as língua evoluem é dizer simplesmente que elas mudam no tempo em uma medida suficiente para que a língua que se fala em, digamos, Lisboa hj não seria compreendida(ou seria mal compreendida) na Lisboa de 800 anos atrás. 
+				
+ 
+			- conclusão: a gramática (prescritiva) não explica as diferentes formas que uma língua exibe.
+
+		- efetividade das "formas erradas" para a comunicação
 		- a criança em idade pré-escolar(o que ela fala não é gramatical?)
 		- questões de inteligibilidade em fronteiras
 		- a mesma língua em países diferentes
+	
 	
 	0.2 formulação da visão prescritiva
 		- leis como dever
