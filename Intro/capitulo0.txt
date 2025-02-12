@@ -32,13 +32,13 @@ CAPITULO 0  -  Descrição, prescrição e teoria
 				vc deve ter escolhido a primeira opção de pelo menos um par. Novamente,  vc diria que as opções que vc não escolheu são exemplos de que língua?
 
 				Enquanto os pares do TESTE 1 seriam aceitos como variantes, regionalismos etc do português, em cada par do teste o segundo elemento seria considerado 
-				errado pela gramática prescritiva ou rotulado como uma variante de pouco prestígio, que deve ser evitada por pessoas escolarizadas. Mas vamos repetir a 				pergunta feita na sequência do TESTE 1. Vc acha que os segundos elementos desse pares são exemplos de qual língua?  				
+				errado na concepção popular de gramática ou rotulado como uma variante de pouco prestígio, que deve ser evitada por pessoas escolarizadas. Mas vamos repetir a 				pergunta feita na sequência do TESTE 1. Vc acha que os segundos elementos desse pares são exemplos de qual língua?  				
 				
 				(a) Aramaico; (b) Francês; (c) Inglês; (d) Português; (e) Guarani
 
-				Se a gramática prescritiva faz afirmações do tipo "Isso não português" ou "Essa forma não existe em português" fica com o problema de responder de que língua se trata. Em nosso caso, não conseguimos pensar em outra alternativa além de dizer que se trata do português brasileiro.
+				Se, na concepção popular, a gramática faz afirmações do tipo "Isso não português" ou "Essa forma não existe em português" fica com o problema de responder de que língua se trata. Em nosso caso, não conseguimos pensar em outra alternativa além de dizer que se trata do português brasileiro.
 
-				Se a gramática faz afirmações do tipo "Isso não é correto" ou "Essa forma é português errado", o que está sendo avaliado a estrutura gramatical ou a adequação da forma? No TESTE 2 o primeiros são exemplos de formas da língua portuguesa que vc encontraria em conversas de bar, na fala de pessoas com pouca escolarização, na fala de pessoas do meio rural, com predominância de pessoas de situação socio-econômica não privilegiadas. Por outro lado as segundas opções acontecem principalmente na escrita e em situações formais. Então estamos falando de uma estrutura linguística que seria correta (ou não correta) ou de um uso adequado da forma. Ou de um uso que atende a certas expectativas?
+				Ao fazer afirmações do tipo "Isso não é correto" ou "Essa forma é português errado", o que está sendo avaliado é a estrutura gramatical ou a adequação da forma? No TESTE 2 o primeiros são exemplos de formas da língua portuguesa que vc encontraria em conversas de bar, na fala de pessoas com pouca escolarização, na fala de pessoas do meio rural, com predominância de pessoas de situação socio-econômica não privilegiadas. Por outro lado as segundas opções acontecem principalmente na escrita e em situações formais. Então estamos falando de uma estrutura linguística que seria correta (ou não correta) ou de um uso adequado da forma. Ou de um uso que atende a certas expectativas?
 
 								
 				 
@@ -48,9 +48,10 @@ CAPITULO 0  -  Descrição, prescrição e teoria
 				O acúmulo das mudanças linguísticas no tempo em algum momento nos levará a uma língua que não é mais o vernáculo de 20xy(preencha xy com o ano em que vc está lendo). Isso é uma fato verificável nos registros históricos de todas as línguas. O pt, o espanhol, o francês, o italiano etc já foram latim. As línguas escandinavas já foram Anglo-Saxão. etc (dar outros exemplos). A conclusão é que as línguas evoluem. 
 				A palavra evoluir pode ser um tanto polêmica. Pq pode dar a ideia de aperfeiçoamento. Mas não é esse o sentindo que queremos aqui. Dizer que a as língua evoluem é dizer simplesmente que elas mudam no tempo em uma medida suficiente para que a língua que se fala em, digamos, Lisboa hj não seria compreendida(ou seria mal compreendida) na Lisboa de 800 anos atrás. 
 				
- 
-			- conclusão: a gramática (prescritiva) não explica as diferentes formas que uma língua exibe.
-
+ 			
+			- conclusão: a concepção popular de gramática não oferece explicação das diferentes formas que uma língua exibe.
+		
+		- a concepção popular de gramática deve foca em aspectos selecionados da realidade linguística e deixa muito conhecimento tácito que as pessoas têm sobre suas línguas maternas sem serem caracterizadas.   
 		- efetividade das "formas erradas" para a comunicação
 		- a criança em idade pré-escolar(o que ela fala não é gramatical?)
 		- questões de inteligibilidade em fronteiras
@@ -62,7 +63,34 @@ CAPITULO 0  -  Descrição, prescrição e teoria
 		- regras gramaticais como dever... 
 
 	0.3 formulação da visão descritiva e como ela evita os problemas da seção 0.1
+
+		0.3.1 há alguma coisa não trivial a ser estudada sobre o conhecimento linguístico.
+
+			- apresentar argumento que as pessoas têm conhecimento tácito sobre suas línguas nativas;
+			- que tipos de conhecimento? exemplos... com atividades
+
+				estrutura silábica: quais dessas podem ser sílabas em pt-br?
+				estrutura morfológica: quais dos exemplos abaixo podem ser palavras em pt/en? 
+				gramaticalidade (nível oracional): quais sequências podem ser sentenças?
+				gramaticalidade (combinatória): quantas sequências possíveis de 4 itens com um léxico de 4 palavras.
+				gramaticalidade (nível constituintes da oração):
+				semântica (nível lexical): retrato; fotografia
+				semântica (nível oracional): O João comeu o bolo/o bolo foi comido
+			
+   
+		0.3.2 se estivermos interessados em explorar esse conhecimento tácito, ou seja, explorar a pergunta o que as pessoas sabem quando sabem uma língua? 
+		Como seria essa exploração?
+
+			- o conhecimento linguístico tácito que mostramos acima é complexo;
+			- é um fato natural do mundo... caracteriza-lo não é uma tarefa trivial
+			- deve ser encarada com isenção e imparcialidade ... não devemos presumir que já temos as respostas (ou vc consegue dizer de antemão o que as combinações da atividade que você aceita como sendo sentenças do pt-br têm em comum?)
+
+			- existe um modelo para o que estamos querendo fazer. (qual seria)
+			- paralelo com biologia etc
+		
 		- leis da natureza
+
+			
 		- como descobrir? ...a partir da observação para obter generalizações 
 		e formular as proposições mais sucintas que melhor descrevem o fenômeno
 		- ... de onde vêm as observações 1?
