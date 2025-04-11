@@ -2,7 +2,7 @@ CAPITULO 2  - O que é ciência?
 
 Nos capítulos anteriores, nós... 
 	
-Neste capítulo, como o título sugere, vamos fazer um pausa filosófica e nos debruçar 
+Neste capítulo, vamos nos debruçar 
 um pouco sobre aspectos gerais da questão o que é ciência. Pois, se estamos propondo
 nestas páginas o estudo científico das línguas, é importante termos uma resposta bem
 clara para esse tipo de pergunta (o que é ciência? como se faz ciência, o que no tipo
@@ -31,6 +31,51 @@ práticas que rotulamos científicas têm que as leva a chegar a conhecimentos v
 
 	
 	0.1 o que é e como se faz ciência
-		-  
-	ciência, ciência aplicada, tecnologia
+		-  distinção de verbos com base na interrogativas fechadas que podem formar... 
+		a. Mary is a student. ; Is Mary a student?
+		b. Mary plays football. ; Does Mary play football?
+		c. Mary can swim. ; Can Mary swim?
+
+		....
+
+	
+		
+	o que é ciência
+		- atividade
+		- "corpus" de conhecimento; sistema de crenças
+		-  distinções de acordo com os objetos de estudo
+		-  o que faz um corpus de conhecimento ser considerado ciência é maneira de inclusão de asserções dentro desse corpus. 
+		- As diferente maneiras de fixar crenças
+			- autoridade;
+			- tenacidade;
+			- a priori;
+			- método empírico -> ciência
+		- pq o método científico é superior aos demais?
+			- observação empírica sistemática ->
+			- possibilidade de comparação entre teorias -> 
+			- possibilidade de autocorreção;
+		- como funciona o método empírico?
+			- observação de dados - hipóteses -> teoria - repetir
+			- indução X dedução
+		- teoria
+			- o que é?
+				- um conjunto de asserções que explica uma classe de fenômenos
+			- organiza observações, dados : descrição
+			- possibilita predição: explanação
+		
+		- características do método empírico;
+			- procedimentos repetíveis;
+			- simplicidade das descrições (mais simples melhor);
+			- generalidade das descrições ()
+			- descreve fenômenos observados favorecendo asserções sobre
+			causa e efeito dos fenômenos;
+			- asserções abertas a revisão;
+			- falsificabilidade das asserções;
+			- 
+		
+	ciência aplicada, tecnologia
+		ciência aplicada não é ciência;
+		tecnologia não é ciência;
+		
+			
 	exatas, biológicas, humanas...
